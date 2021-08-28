@@ -10,5 +10,6 @@ module.exports = {
   transpileDependencies: [
     '@coreui/utils',
     '@coreui/vue'
-  ]
+  ],
+  publicPath: '/ai-recruitment/'
 }
